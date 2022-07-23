@@ -1,0 +1,44 @@
+body
+{
+    background-color: #feae96;
+background-image: linear-gradient(315deg, #feae96 0%, #fe0944 74%);
+}
+
+button
+{
+   background-color: aliceblue; 
+   border-color: aliceblue;
+  border-radius:40% ;
+  padding: 14px 40px;
+  font-size: 20px;
+}
+
+.bed
+{
+  background-color: #f907fc;
+background-image: linear-gradient(315deg, #f907fc 0%, #05d6d9 74%);
+}
+
+.fb
+{
+  background-color: #f907fc;
+background-image: linear-gradient(315deg, #f907fc 0%, #05d6d9 74%);
+}
+
+.desk
+{
+  background-color: #c7e9fb;
+background-image: linear-gradient(315deg, #c7e9fb 0%, #e61d8c 74%);
+}
+
+.tc
+{
+  background-color: #f6d327;
+  background-image: linear-gradient(315deg, #f6d327 0%, #de4daa 74%);
+}
+
+.bottles
+{
+  background-color: #21d190;
+  background-image: linear-gradient(315deg, #21d190 0%, #d65bca 74%);  
+}
